@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 # The base URL of your site (required). This will be prepended to all relative URLs.
-baseURL = "http://web.hugity.com/j57aaverp68cntgp6g2wn84gj97ptner/"
+baseURL = "https://web.hugity.com/j57aaverp68cntgp6g2wn84gj97ptner/"
 # Title of your website (required).
 title = "Dot"
 # Your theme name
